@@ -1,15 +1,20 @@
 # 📖 04-3D_RPG_Game_Development
-[โครงงานนี้เป็นการพัฒนา 3D RPG Game โดยใช้โปรแกรม Unity และ ภาษา C#]
+โครงงานนี้เป็นการพัฒนา 3D RPG Game โดยใช้โปรแกรม Unity และ ภาษา C#
+ชื่อภาษาไทย : การพัฒนาเกมส์ 3D RPG
+ชื่อภาษาอังกฤษ : 3D_RPG_Game_Development
 ---
 ## ⚔ Game Development
-| <p align="center">Dev | <p align="center">Dev |
+ชื่อกลุ่ม : อาเนียชอบกินถั่ว
+| <p align="center">SW_Dev | <p align="center">SW_Dev |
 | :-------------:  | :-------------: |
 | <p align="center"><img width="30%" height="40%" src="./Profile-63015049.png" /> | <p align="center"><img width="30%" height="40%" src="./Profile-63015098.png" /> |
 | <p align="center" width="100%">ID : 63015049 | <p align="center" width="100%">ID : 63015098 |
 | <p align="center" width="100%">Nattaphon Suksomroop | <p align="center" width="100%">Nanthikan Praesirirak |
 ---
+ ผศ. ดร. ธนัญชัย ตรีภาค
 ## Wellcome to Project
 
+  
 ## Use case
 <img width="100%" height="auto" src="./Usecase.png" />
 
