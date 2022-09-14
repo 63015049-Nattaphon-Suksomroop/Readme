@@ -4,8 +4,9 @@
 โครงงานนี้เป็นการพัฒนา 3D RPG Game โดยใช้โปรแกรม Unity และ ภาษา C#
 ชื่อภาษาไทย : การพัฒนาเกมส์ 3D RPG
 ชื่อภาษาอังกฤษ : 3D_RPG_Game_Development
+อาจาร์ยที่ปรึกษา :  ผศ. ดร. ธนัญชัย ตรีภาค
 ชื่อกลุ่ม : อาเนียชอบกินถั่ว
----
+
 ## ⚔ Game Development
 | <p align="center">SW_Dev | <p align="center">SW_Dev |
 | :-------------:  | :-------------: |
@@ -13,7 +14,7 @@
 | <p align="center" width="100%">ID : 63015049 | <p align="center" width="100%">ID : 63015098 |
 | <p align="center" width="100%">Nattaphon Suksomroop | <p align="center" width="100%">Nanthikan Praesirirak |
 ---
- ผศ. ดร. ธนัญชัย ตรีภาค
+
 ## Wellcome to Project
 
   
